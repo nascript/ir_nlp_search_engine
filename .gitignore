@@ -1,0 +1,7 @@
+.csv
+*.csv
+venv-jupesvideo
+node_modules
+__pycache__
+*.pkl
+.pkl
